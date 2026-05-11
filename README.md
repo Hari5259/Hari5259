@@ -11,7 +11,7 @@ Building modern, scalable, and intelligent software solutions with clean UI, rea
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Engineer;Software+Developer;AI+Enthusiast;Building+Modern+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Engineer;Software+Developer;AI+Enthusiast;Building+Modern+Applications" />
 </p>
 
 ---
@@ -19,9 +19,7 @@ Building modern, scalable, and intelligent software solutions with clean UI, rea
 # 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,python,java,c,flutter,tailwind,git,github,vscode" />
-
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,python,java,c,flutter,tailwind,git,github,vscode,html,css&perline=7" />
 </p>
 
 ---
@@ -39,7 +37,7 @@ Building modern, scalable, and intelligent software solutions with clean UI, rea
 # 🔥 Featured Projects
 
 ### 🎓 AI-Based Educational Equity System
-A modern AI-powered educational platform focused on accessibility, productivity, and student engagement.
+Modern AI-powered educational platform focused on accessibility and productivity.
 
 ### 🏥 AI-Based Healthcare Chatbot
 Healthcare platform featuring OCR medicine scanner, analytics dashboard, AI symptom checker, and emergency support modules.
@@ -56,9 +54,9 @@ Creative UI/UX and 3D interactive design projects focused on modern user experie
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hari5259&show_icons=true&theme=radical&hide_border=true&border_radius=10" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Hari5259&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari5259&layout=compact&theme=radical&hide_border=true&border_radius=10" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari5259&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
 
@@ -67,9 +65,7 @@ Creative UI/UX and 3D interactive design projects focused on modern user experie
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Hari5259&theme=radical&hide_border=true&border_radius=10" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Hari5259&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -79,11 +75,11 @@ Creative UI/UX and 3D interactive design projects focused on modern user experie
 <p align="center">
 
 <a href="mailto:shariharasudhan333@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hariharasudhan-s-218b53368/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
