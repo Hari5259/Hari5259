@@ -50,17 +50,7 @@ Creative UI/UX and 3D interactive design projects focused on modern user experie
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Hari5259&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari5259&layout=compact&theme=radical&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
