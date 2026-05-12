@@ -11,7 +11,7 @@ Building modern, scalable, and intelligent software solutions with clean UI, rea
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Engineer;Software+Developer;AI+Enthusiast;Building+Modern+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+Enthusiast;Building+Modern+Applications;Open+Source+Learner" />
 </p>
 
 ---
@@ -24,59 +24,69 @@ Building modern, scalable, and intelligent software solutions with clean UI, rea
 
 ---
 
-# 📌 Current Focus
+# 🚀 About Me
 
-- 🚀 Full Stack Development
-- ⚡ MERN Stack Applications
-- 🤖 AI-Powered Systems
-- 🎨 Modern UI/UX Design
-- 🧠 Scalable Software Development
+- 🔭 Currently building AI-powered healthcare & educational systems
+- 🌱 Exploring scalable MERN stack architectures
+- 🤖 Interested in AI integrations & smart applications
+- 🎨 Passionate about modern UI/UX experiences
+- ⚡ Focused on real-world full stack development
 
 ---
 
 # 🔥 Featured Projects
 
-### 🎓 AI-Based Educational Equity System
-Modern AI-powered educational platform focused on accessibility, productivity, and AI-driven learning support.
+### 🏥 MediScan - AI Healthcare Platform
+Full-stack healthcare ecosystem featuring:
+- OCR Medicine Scanner
+- AI Healthcare Chatbot
+- Doctor Dashboard
+- Health Analytics
+- Emergency Support
+- Food Tracker
+- Medicine Reminder
+- Clinical Reports
+- MongoDB Cloud Integration
 
-### 🏥 AI-Based Healthcare Platform (MediScan)
-Full-stack healthcare ecosystem featuring OCR medicine scanner, AI chatbot, doctor dashboard, analytics, emergency support, food tracking, reminders, and health reports.
+---
 
-### 🧠 OCR Medicine Scanner & Health Analytics
-Smart medicine recognition system with OCR integration and real-time health tracking capabilities.
+### 🎓 AI Educational Equity System
+AI-powered educational platform focused on:
+- Productivity
+- Student engagement
+- Smart learning systems
+- Interactive dashboards
+
+---
 
 ### 🎨 3D Designing & Interactive UI Projects
-Creative UI/UX and 3D interactive design projects focused on immersive user experiences.
+Modern UI/UX and immersive interactive experiences.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Activity
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Hari5259&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari5259&layout=compact&theme=radical&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari5259&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 💻 Currently Working With
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hari5259&theme=radical&hide_border=true&border_radius=10&cache_seconds=86400" />
+
+<img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Database-MongoDB-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Tools-VSCode-blueviolet?style=for-the-badge"/>
+
 </p>
-
----
-
-# 🚀 Currently Building
-
-- 🏥 AI Healthcare Ecosystem
-- 🤖 Intelligent Medical Assistance Systems
-- 📊 Health Analytics Dashboards
-- 🧠 AI-Powered Educational Systems
-- ⚡ Full Stack MERN Applications
 
 ---
 
