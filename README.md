@@ -19,7 +19,7 @@ Building modern, scalable, and intelligent software solutions with clean UI, rea
 # 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,python,java,c,flutter,tailwind,git,github,vscode,html,css&perline=7" />
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,python,java,c,flutter,tailwind,git,github,vscode,html,css&perline=7" />
 </p>
 
 ---
@@ -37,26 +37,46 @@ Building modern, scalable, and intelligent software solutions with clean UI, rea
 # 🔥 Featured Projects
 
 ### 🎓 AI-Based Educational Equity System
-Modern AI-powered educational platform focused on accessibility and productivity.
+Modern AI-powered educational platform focused on accessibility, productivity, and AI-driven learning support.
 
-### 🏥 AI-Based Healthcare Chatbot
-Healthcare platform featuring OCR medicine scanner, analytics dashboard, AI symptom checker, and emergency support modules.
+### 🏥 AI-Based Healthcare Platform (MediScan)
+Full-stack healthcare ecosystem featuring OCR medicine scanner, AI chatbot, doctor dashboard, analytics, emergency support, food tracking, reminders, and health reports.
 
 ### 🧠 OCR Medicine Scanner & Health Analytics
-Smart medicine recognition system with OCR integration and health tracking features.
+Smart medicine recognition system with OCR integration and real-time health tracking capabilities.
 
 ### 🎨 3D Designing & Interactive UI Projects
-Creative UI/UX and 3D interactive design projects focused on modern user experiences.
+Creative UI/UX and 3D interactive design projects focused on immersive user experiences.
 
 ---
 
+# 📊 GitHub Stats
 
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Hari5259&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari5259&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
+
+---
 
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Hari5259&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Hari5259&theme=radical&hide_border=true&border_radius=10&cache_seconds=86400" />
 </p>
+
+---
+
+# 🚀 Currently Building
+
+- 🏥 AI Healthcare Ecosystem
+- 🤖 Intelligent Medical Assistance Systems
+- 📊 Health Analytics Dashboards
+- 🧠 AI-Powered Educational Systems
+- ⚡ Full Stack MERN Applications
 
 ---
 
@@ -77,5 +97,5 @@ Creative UI/UX and 3D interactive design projects focused on modern user experie
 ---
 
 <p align="center">
-✨ <b>Building impactful software with creativity, intelligence, and modern technology.</b> ✨
+✨ <b>Building impactful software with AI, scalability, and modern technologies.</b> ✨
 </p>
