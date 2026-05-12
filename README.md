@@ -19,7 +19,7 @@ Building modern, scalable, and intelligent software solutions with clean UI and 
 # 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,python,java,c,flutter,tailwind,git,github,vscode,html,css&perline=7" />
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,python,java,c,flutter,tailwind,github,vscode,html,css&perline=7" />
 </p>
 
 ---
