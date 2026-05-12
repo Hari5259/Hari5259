@@ -5,13 +5,13 @@
 </h3>
 
 <p align="center">
-Building modern, scalable, and intelligent software solutions with clean UI, real-world applications, and impactful user experiences.
+Building modern, scalable, and intelligent software solutions with clean UI and impactful user experiences.
 </p>
 
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+Enthusiast;Building+Modern+Applications;Open+Source+Learner" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+Healthcare+Projects;Modern+Web+Applications" />
 </p>
 
 ---
@@ -24,17 +24,7 @@ Building modern, scalable, and intelligent software solutions with clean UI, rea
 
 ---
 
-# 🚀 About Me
-
-- 🔭 Currently building AI-powered healthcare & educational systems
-- 🌱 Exploring scalable MERN stack architectures
-- 🤖 Interested in AI integrations & smart applications
-- 🎨 Passionate about modern UI/UX experiences
-- ⚡ Focused on real-world full stack development
-
----
-
-# 🔥 Featured Projects
+# 🚀 Featured Projects
 
 ### 🏥 MediScan - AI Healthcare Platform
 Full-stack healthcare ecosystem featuring:
@@ -51,16 +41,12 @@ Full-stack healthcare ecosystem featuring:
 ---
 
 ### 🎓 AI Educational Equity System
-AI-powered educational platform focused on:
-- Productivity
-- Student engagement
-- Smart learning systems
-- Interactive dashboards
+AI-powered educational platform focused on productivity, accessibility, and smart learning systems.
 
 ---
 
 ### 🎨 3D Designing & Interactive UI Projects
-Modern UI/UX and immersive interactive experiences.
+Creative UI/UX and immersive interactive experiences.
 
 ---
 
@@ -72,7 +58,7 @@ Modern UI/UX and immersive interactive experiences.
 
 ---
 
-# 💻 Currently Working With
+# 💻 Current Technologies
 
 <p align="center">
 
@@ -83,8 +69,6 @@ Modern UI/UX and immersive interactive experiences.
 <img src="https://img.shields.io/badge/Database-MongoDB-success?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Tools-VSCode-blueviolet?style=for-the-badge"/>
 
 </p>
 
@@ -107,5 +91,5 @@ Modern UI/UX and immersive interactive experiences.
 ---
 
 <p align="center">
-✨ <b>Building impactful software with AI, scalability, and modern technologies.</b> ✨
+✨ <b>Building impactful software with AI and modern technologies.</b> ✨
 </p>
