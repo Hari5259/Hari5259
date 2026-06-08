@@ -26,27 +26,52 @@ Building modern, scalable, and intelligent software solutions with clean UI and 
 
 # 🚀 Featured Projects
 
+### 🤖 AgentForge - Local LLM Agent Builder
+
+Advanced no-code AI Agent creation platform that converts natural language requirements into fully functional AI agents powered by local LLMs.
+
+**Features:**
+
+* Local LLM Integration (Ollama)
+* Retrieval-Augmented Generation (RAG)
+* Persistent Memory System
+* AI Tool Orchestration
+* Safety Guardrails
+* Custom Agent Workflows
+* Streamlit Dashboard
+
+---
+
+### 🌍 Atlas AI - Intelligent AI Assistant Platform
+
+Next-generation AI platform focused on conversational intelligence, task automation, knowledge retrieval, and smart decision-making.
+
+**Features:**
+
+* Intelligent Conversational AI
+* Knowledge Retrieval System
+* Smart Task Automation
+* Context-Aware Responses
+* Modern Interactive Interface
+
+---
+
 ### 🏥 MediScan - AI Healthcare Platform
+
 Full-stack healthcare ecosystem featuring:
-- OCR Medicine Scanner
-- AI Healthcare Chatbot
-- Doctor Dashboard
-- Health Analytics
-- Emergency Support
-- Food Tracker
-- Medicine Reminder
-- Clinical Reports
-- MongoDB Cloud Integration
+
+* OCR Medicine Scanner
+* AI Healthcare Chatbot
+* Doctor Dashboard
+* Health Analytics
+* Emergency Support
+* Food Tracker
+* Medicine Reminder
+* Clinical Reports
+* MongoDB Cloud Integration
 
 ---
 
-### 🎓 AI Educational Equity System
-AI-powered educational platform focused on productivity, accessibility, and smart learning systems.
-
----
-
-### 🎨 3D Designing & Interactive UI Projects
-Creative UI/UX and immersive interactive experiences.
 
 ---
 
